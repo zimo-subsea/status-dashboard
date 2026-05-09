@@ -1,0 +1,95 @@
+:root {
+  --md-primary-fg-color: #071215;
+  --md-accent-fg-color: #9ff5e8;
+  --zimo-cyan: #9ff5e8;
+  --zimo-blue: #0b3440;
+  --zimo-panel: rgba(255, 255, 255, 0.055);
+  --zimo-line: rgba(159, 245, 232, 0.22);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #071215;
+  --md-default-fg-color: #edf7f5;
+  --md-default-fg-color--light: #c5d5d2;
+  --md-default-fg-color--lighter: #92a5a2;
+  --md-typeset-a-color: #9ff5e8;
+  --md-code-bg-color: #0d1b20;
+  --md-code-fg-color: #d8fffa;
+}
+
+.md-header,
+.md-tabs {
+  background: #05090b;
+}
+
+.md-main {
+  background:
+    linear-gradient(180deg, rgba(6, 18, 22, 0.96), rgba(7, 18, 21, 1) 340px),
+    #071215;
+}
+
+.md-typeset h1,
+.md-typeset h2 {
+  font-weight: 740;
+  letter-spacing: 0;
+}
+
+.md-typeset h1 {
+  color: #ffffff;
+}
+
+.md-typeset h2 {
+  border-top: 1px solid var(--zimo-line);
+  padding-top: 1.2rem;
+}
+
+.zimo-hero {
+  border-left: 4px solid var(--zimo-cyan);
+  padding: 1.5rem 0 1rem 1.4rem;
+  margin: 1rem 0 2rem;
+}
+
+.zimo-hero h1 {
+  margin-bottom: 0.45rem;
+}
+
+.zimo-lede {
+  max-width: 780px;
+  font-size: 1.05rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.zimo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.8rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.zimo-card {
+  border: 1px solid var(--zimo-line);
+  background: var(--zimo-panel);
+  border-radius: 6px;
+  padding: 1rem;
+}
+
+.zimo-card strong {
+  display: block;
+  color: #ffffff;
+  margin-bottom: 0.25rem;
+}
+
+.zimo-status {
+  display: inline-block;
+  border: 1px solid var(--zimo-line);
+  border-radius: 999px;
+  padding: 0.12rem 0.55rem;
+  color: var(--zimo-cyan);
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.md-typeset table:not([class]) th {
+  background: rgba(159, 245, 232, 0.12);
+}
