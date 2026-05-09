@@ -1,5 +1,5 @@
-site_name: Zimo Project Hub
-site_description: Project hub for Zimo pilot customers, product direction, funding, and technical progress.
+site_name: Zimo Dashboard
+site_description: Internt statusdashboard for Mads og Sverre i Zimo.
 site_url: https://zimo-subsea.github.io/status-dashboard/
 
 repo_name: zimo-subsea/status-dashboard
@@ -13,6 +13,8 @@ theme:
     - navigation.tracking
     - navigation.sections
     - navigation.expand
+    - navigation.top
+    - navigation.indexes
     - navigation.top
     - navigation.indexes
     - toc.follow
