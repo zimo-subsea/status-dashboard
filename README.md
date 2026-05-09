@@ -1,8 +1,8 @@
-# Zimo Project Hub
+# Zimo Dashboard
 
-Static MkDocs Material status dashboard for Zimo.
+Internal MkDocs Material status dashboard for Mads and Sverre in Zimo.
 
-This site is published from `zimo-subsea/status-dashboard`, separate from existing Zimo product documentation.
+This site is published from `zimo-subsea/status-dashboard`, separate from existing Zimo product documentation. It is meant as a practical working surface, not an external presentation page.
 
 ## Local setup
 
