@@ -1,17 +1,17 @@
-# Zimo Project Hub
+# Zimo Internt Dashboard
 
 <div class="zimo-hero">
-  <h1>Robuste undervannskamera for pilotkunder.</h1>
-  <p class="zimo-lede">Denne siden er prosjektflaten for Zimo: hva vi bygger, hvem vi skal kontakte, hva som må gjøres nå, og hvilke beslutninger som er satt.</p>
+  <h1>Dette er arbeidsbildet vårt.</h1>
+  <p class="zimo-lede">Internt dashboard for Mads og Sverre. Målet er å se hva som er viktig nå, hva som er bestemt, og hva som blokkerer oss.</p>
 </div>
 
-<span class="zimo-status">Aktiv fase: pilotkunde + funding</span>
+<span class="zimo-status">Internt: Mads + Sverre</span>
 
-## Hovedmål
+## Hovedmål nå
 
 Første mål er å få én betalt pilotkunde. Piloten skal gi reell kundelæring, praktisk feltbevis og et sterkere grunnlag for støtte fra Innovasjon Norge.
 
-## Hva Zimo bygger
+## Hva vi bygger
 
 Zimo bygger et standardisert undervannskamerasystem:
 
@@ -20,24 +20,31 @@ Zimo bygger et standardisert undervannskamerasystem:
 - Live view, opptak, enkel status og support.
 - Første versjon skal være enkel nok til pilot, men robust nok til seriøs industriell bruk.
 
+## Slik skal siden brukes
+
+- Start her for å se hva vi bør gjøre nå.
+- Hold oppgaver korte og praktiske.
+- Legg detaljer, møtereferater og rånotater i Obsidian-wikien.
+- Oppdater siden når prioritet, beslutning eller blokkering endrer seg.
+
 ## Prioritet nå
 
 <div class="zimo-grid">
   <div class="zimo-card">
     <strong>1. Pilotkunde</strong>
-    Prioriter fem første kandidater og få de første samtalene i gang.
+    Velg hvem vi kontakter først og få samtalene i gang.
   </div>
   <div class="zimo-card">
-    <strong>2. Pilotpakke</strong>
-    Skriv kort pilotbeskrivelse og outreach-tekst.
+    <strong>2. Neste handlinger</strong>
+    Hold ukens arbeid tydelig nok til at vi kan starte med en gang.
   </div>
   <div class="zimo-card">
     <strong>3. Innovasjon Norge</strong>
-    Samle bevis: kundeinteresse, tydelig problem, pilotopplegg og budsjett.
+    Samle grunnlaget vi trenger: kundeinteresse, problem, pilotopplegg og budsjett.
   </div>
   <div class="zimo-card">
     <strong>4. Engineering</strong>
-    Hold teknisk arbeid knyttet til pilotklarhet, ikke perfeksjon.
+    Prioriter teknisk arbeid som gjør første pilot mulig.
   </div>
 </div>
 
